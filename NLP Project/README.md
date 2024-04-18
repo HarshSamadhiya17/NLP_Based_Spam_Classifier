@@ -1,5 +1,7 @@
 Project Report: Text Message Spam Classifier
 Introduction
+
+
 The project aims to develop a spam classifier for text messages using natural language processing techniques. The dataset used is the SMSSpamCollection dataset, containing labeled messages as either spam or ham (non-spam). The project includes data preprocessing, feature extraction using Bag of Words (BoW) and TF-IDF, model training using the Multinomial Naive Bayes algorithm, and evaluation of the classifier's performance.
 
 Data Loading and Exploration
