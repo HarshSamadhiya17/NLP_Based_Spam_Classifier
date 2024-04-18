@@ -17,7 +17,7 @@ Insights</li>
 <li>Removed punctuation and stop words from the messages using the text_process function.</li>
 <li>Utilized CountVectorizer and TfidfTransformer from sklearn to convert the text data into numerical features (Bag of Words and TF-IDF representation).</li>
 </ul>
-<h2>Model Training and Evaluation<h2>
+<h2>Model Training and Evaluation</h2>
 <ul>
 <li>Split the dataset into training and testing sets.</li>
 <li>Created a pipeline consisting of text processing, feature extraction, and a Multinomial Naive Bayes classifier.</li>
