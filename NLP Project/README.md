@@ -19,7 +19,7 @@ Created a pipeline consisting of text processing, feature extraction, and a Mult
 Trained the pipeline on the training data and evaluated its performance on the test data.
 Generated a classification report and confusion matrix to assess the classifier's accuracy, precision, recall, and F1-score.
 Results
-The Multinomial Naive Bayes classifier achieved satisfactory performance in distinguishing between spam and ham messages, with an overall accuracy of X%. The classification report and confusion matrix provide detailed insights into the classifier's performance metrics and its ability to correctly classify spam and ham messages.
+The Multinomial Naive Bayes classifier achieved satisfactory performance in distinguishing between spam and ham messages, with an overall accuracy of 96%. The classification report and confusion matrix provide detailed insights into the classifier's performance metrics and its ability to correctly classify spam and ham messages.
 
 Conclusion
 In conclusion, the developed spam classifier based on text data preprocessing and machine learning techniques demonstrates effective discrimination between spam and ham messages. Further optimizations and enhancements can be explored to improve the classifier's accuracy and robustness in real-world applications.
